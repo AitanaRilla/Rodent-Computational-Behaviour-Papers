@@ -7,6 +7,7 @@ This repository is a compilation of papers involved in the field of computationa
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/Lauer, 2022.png"/></a></td>
 <td align="left" width=550><em>Multi-animal pose estimation, identification and tracking with DeepLabCut</em><br>
 <font size=2.5>Jessy Lauer</font>, 
 <font size=2.5>Mu Zhou</font>, 
@@ -28,6 +29,7 @@ This repository is a compilation of papers involved in the field of computationa
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/Pereira, 2020.png"/></a></td>
 <td align="left" width=550><em>Quantifying behavior to understand the brain</em><br>
 <font size=2.5>Talmo D. Pereira</font>, 
 <font size=2.5>Joshua W. Shaevitz</font> and
@@ -37,6 +39,7 @@ This repository is a compilation of papers involved in the field of computationa
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/Mathis and Mackenzie, 2020.png"/></a></td>
 <td align="left" width=550><em>Deep learning tools for the measurement of animal behavior in neuroscience</em><br>
 <font size=2.5>Mackenzie Weygandt Mathis</font> and
 <font size=2.5>Alexander Mathis</font><br>
@@ -45,6 +48,7 @@ This repository is a compilation of papers involved in the field of computationa
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/Coffey, 2019.png"/></a></td>
 <td align="left" width=550><em>DeepSqueak: a deep learning-based system for detection and analysis of ultrasonic vocalizations</em><br>
 <font size=2.5>Kevin R. Coffey</font>, 
 <font size=2.5>Ruby E. Marx</font> and 
@@ -54,6 +58,7 @@ This repository is a compilation of papers involved in the field of computationa
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/Vogel, 2019.png"/></a></td>
 <td align="left" width=550><em>Quantifying ultrasonic mouse vocalizations using acoustic analysis in a supervised statistical machine learning framework</em><br>
 <font size=2.5>Adam P. Vogel</font>, 
 <font size=2.5>Athanasios Tsanas</font> and 
@@ -63,6 +68,7 @@ This repository is a compilation of papers involved in the field of computationa
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/Mathis, 2018.png"/></a></td>
 <td align="left" width=550><em>DeepLabCut: markerless pose estimation of user-defined body parts with deep learning</em><br>
 <font size=2.5>Alexander Mathis</font>, 
 <font size=2.5>Pranav Mamidanna</font>, 
