@@ -25,7 +25,7 @@ This repository is a compilation of papers involved in the field of computationa
 <font size=2.5>Mackenzie Weygandt Mathis</font> and
 <font size=2.5>Alexander Mathis</font><br>
 <font size=2.5>In Nature Methods 2022</font><br>
-<a href="https://www.nature.com/articles/s41592-022-01443-0"><img src="data/paper.png"></a> 
+<a href="https://www.nature.com/articles/s41592-022-01443-0"><img src="data/lupa.png"></a> 
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
@@ -35,7 +35,7 @@ This repository is a compilation of papers involved in the field of computationa
 <font size=2.5>Joshua W. Shaevitz</font> and
 <font size=2.5>Mala Murthy</font><br>
 <font size=2.5>In Nature Neuroscience 2020</font><br>
-<a href="https://www.nature.com/articles/s41593-020-00734-z"><img src="data/paper.png"></a> 
+<a href="https://www.nature.com/articles/s41593-020-00734-z"><img src="data/lupa.png"></a> 
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
@@ -44,7 +44,7 @@ This repository is a compilation of papers involved in the field of computationa
 <font size=2.5>Mackenzie Weygandt Mathis</font> and
 <font size=2.5>Alexander Mathis</font><br>
 <font size=2.5>In Current Opinion in Neurobiology 2020</font><br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438819301151"><img src="data/paper.png"></a> 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438819301151"><img src="data/lupa.png"></a> 
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
@@ -54,7 +54,7 @@ This repository is a compilation of papers involved in the field of computationa
 <font size=2.5>Ruby E. Marx</font> and 
 <font size=2.5>John F. Neumaier</font><br>
 <font size=2.5>In Neuropsychopharmacology 2019</font><br>
-<a href="https://www.nature.com/articles/s41386-018-0303-6"><img src="data/paper.png"></a> 
+<a href="https://www.nature.com/articles/s41386-018-0303-6"><img src="data/lupa.png"></a> 
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
@@ -64,7 +64,7 @@ This repository is a compilation of papers involved in the field of computationa
 <font size=2.5>Athanasios Tsanas</font> and 
 <font size=2.5>Maria Luisa Scattoni</font><br>
 <font size=2.5>In Scientific Reports 2019</font><br>
-<a href="https://www.nature.com/articles/s41598-019-44221-3"><img src="data/paper.png"></a> 
+<a href="https://www.nature.com/articles/s41598-019-44221-3"><img src="data/lupa.png"></a> 
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
@@ -78,7 +78,7 @@ This repository is a compilation of papers involved in the field of computationa
 <font size=2.5>Mackenzie Weygandt Mathis</font> and
 <font size=2.5>Matthias Bethge</font><br>
 <font size=2.5>In Nature Neuroscience 2018</font><br>
-<a href="https://www.nature.com/articles/s41593-018-0209-y"><img src="data/paper.png"></a> 
+<a href="https://www.nature.com/articles/s41593-018-0209-y"><img src="data/lupa.png"></a> 
 </td></tr></tbody>
 
 
