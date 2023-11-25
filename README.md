@@ -29,6 +29,24 @@ This repository is a compilation of papers involved in the field of computationa
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/"/></a></td>
+<td align="left" width=550><em>DeepEthogram, a machine learning pipeline for supervised behavior classification from raw pixels</em><br>
+<font size=2.5>James P. Bohnslav</font>, 
+<font size=2.5>Nivanthika K. Wimalasena</font>,
+<font size=2.5>Kelsey J. Clausing</font>,
+<font size=2.5>Yu Y. Dai</font>,
+<font size=2.5>David A. Yarmolinsky</font>,
+<font size=2.5>Tomás Cruz</font>,
+<font size=2.5>Adam D. Kashlan</font>,
+<font size=2.5>M Eugenia Chiappe</font>,
+<font size=2.5>Lauren L. Orefice</font>,
+<font size=2.5>Clifford J. Woolf</font> and
+<font size=2.5>Christopher D. Harvey</font><br>
+<font size=2.5>In eLife 2021</font><br>
+<a href="https://elifesciences.org/articles/63377"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="data/Pereira, 2020.png"/></a></td>
 <td align="left" width=550><em>Quantifying behavior to understand the brain</em><br>
 <font size=2.5>Talmo D. Pereira</font>, 
