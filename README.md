@@ -29,7 +29,7 @@ This repository is a compilation of papers involved in the field of computationa
 </td></tr></tbody>
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="data/"/></a></td>
+<a href="none"><img src="data/Bohnslav, 2021.jpg"/></a></td>
 <td align="left" width=550><em>DeepEthogram, a machine learning pipeline for supervised behavior classification from raw pixels</em><br>
 <font size=2.5>James P. Bohnslav</font>, 
 <font size=2.5>Nivanthika K. Wimalasena</font>,
