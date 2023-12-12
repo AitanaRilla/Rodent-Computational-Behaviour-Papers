@@ -7,6 +7,21 @@ This repository is a compilation of papers involved in the field of computationa
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="data/Luxem, 2022.png"/></a></td>
+<td align="left" width=550><em>Identifying behavioral structure from deep variational embeddings of animal motion</em><br>
+<font size=2.5>Kevin Luxem</font>, 
+<font size=2.5>Petra Mocellin</font>, 
+<font size=2.5>Falko Fuhrmann</font>,
+<font size=2.5>Johannes Kürsch</font>,
+<font size=2.5>Stephanie R. Miller</font>,
+<font size=2.5>Jorge J. Palop</font>,
+<font size=2.5>Stefan Remy</font> and
+<font size=2.5>Pavol Bauer</font><br>
+<font size=2.5>In Communications Biology 2022</font><br>
+<a href="https://www.nature.com/articles/s42003-022-04080-7"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+<table><tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="data/Lauer, 2022.png"/></a></td>
 <td align="left" width=550><em>Multi-animal pose estimation, identification and tracking with DeepLabCut</em><br>
 <font size=2.5>Jessy Lauer</font>, 
